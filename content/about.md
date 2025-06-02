@@ -1,5 +1,12 @@
-+++
-date = '2025-06-02T18:23:59-05:00'
-draft = true
-title = 'About'
-+++
+---
+title: "About Me"
+---
+
+## Background
+
+I’m a graduate student interested in AI, backend engineering, and software design.
+
+## Skills
+
+**Languages:** Python, Java, Ruby  
+*Interests:* Web3, cats, hiking, visual design

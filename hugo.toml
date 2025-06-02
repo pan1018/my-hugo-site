@@ -1,14 +1,9 @@
-baseURL = 'https://<pan1018>.github.io/my-hugo-site/'
-languageCode = 'en-us'
-title = 'Yuyang Pan'
-theme = "PaperMod"
-
 [menu]
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Blog"
-    url = "/posts/"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 1
 
   [[menu.main]]
@@ -17,3 +12,8 @@ theme = "PaperMod"
     url = "/about/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
