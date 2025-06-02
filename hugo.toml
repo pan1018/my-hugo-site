@@ -1,3 +1,8 @@
+baseURL = "https://pan1018.github.io/my-hugo-site/"
+languageCode = "en-us"
+title = "Yuyang Pan"
+theme = "PaperMod"
+
 [menu]
 
   [[menu.main]]
