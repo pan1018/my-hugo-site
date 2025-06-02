@@ -1,14 +1,11 @@
 ---
 title: "Yuyang Pan"
+layout: "home"
 ---
 
-# 👋 Hello, I'm Yuyang
+# 👋 Welcome to My Website
 
-I'm a Master's student in Computer Science @ Northwestern.  
-This is my personal site built with **Hugo**.  
+This is a simple Hugo site using **PaperMod**.
 
-- 💻 I love web development and machine learning.
-- 🐱 I have a cat I adore.
-- 📫 [Contact me on GitHub](https://github.com/pan1018)
-
-![My cat](images/cat.jpg)
+- Posts on [coding](/posts/)
+- Info [about me](/about/)
