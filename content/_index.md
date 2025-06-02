@@ -1,11 +1,7 @@
 ---
-title: "Yuyang Pan"
+title: "Home"
 layout: "home"
 ---
 
-# 👋 Welcome to My Website
-
-This is a simple Hugo site using **PaperMod**.
-
-- Posts on [coding](/posts/)
-- Info [about me](/about/)
+Welcome to my Hugo site!
+Check out my [posts](/posts/) or learn more [about me](/about/).
