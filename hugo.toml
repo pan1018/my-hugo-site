@@ -23,10 +23,7 @@ theme = "PaperMod"
     url = "/posts/"
     weight = 3
 
-
 [params]
-  homeInfoParams = { 
-    Title = "👋 Hi, I'm Yuyang Pan", 
-    Content = "Welcome to my personal Hugo website. Explore my [posts](/posts/) or read more [about me](/about/)." 
-  }
-
+  [params.homeInfoParams]
+    Title = "👋 Hi, I'm Yuyang Pan"
+    Content = "Welcome to my personal Hugo website. Explore my [posts](/posts/) or read more [about me](/about/)."
