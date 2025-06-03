@@ -23,23 +23,30 @@ I chose [PaperMod](https://github.com/adityatelange/hugo-PaperMod) as the theme 
 
 ---
 
-## 📸 About the Image
+## 📸 Some Images
 
-Here's a sample image just to test how things render:
+### My Placeholder Image
 
-![My Image](images/myphoto.jpg)
+![My Image](/images/myphoto.jpg)
 
-(Yes, that’s a placeholder — I’ll upload something more interesting soon 🐱.)
+(This is a placeholder — I’ll upload something more exciting soon.)
+
+### My Cat 🐱
+
+Say hi to my cat! 😺
+
+![Cat](/images/cat.jpg)
+
+He’s cute, chaotic, and has better debugging instincts than I do.
 
 ---
 
 ## 🧭 Where to Go Next?
 
-- Check out my [latest blog posts](/posts/)
-- Learn more [about me](/about/)
-- Or just [search on Google](https://google.com) if you’re totally lost 😄
+- 📝 Read my [latest blog posts](/posts/)
+- 🙋 Learn more [about me](/about/)
+- 🔍 Or [search on Google](https://google.com) if you’re totally lost
 
 ---
 
-Thanks again for stopping by. I’ll be adding more soon — stay tuned!
-
+Thanks again for stopping by. More posts are coming soon — stay tuned!
