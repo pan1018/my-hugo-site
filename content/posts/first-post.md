@@ -27,15 +27,15 @@ I chose [PaperMod](https://github.com/adityatelange/hugo-PaperMod) as the theme 
 
 ### My Placeholder Image
 
-![My Image](/images/myphoto.jpg)
+![My Image](static/images/myphoto.jpeg)
 
 (This is a placeholder — I’ll upload something more exciting soon.)
 
 ### My Cat 🐱
 
-Say hi to my cat! 😺
+Say hi to my cat! 😺 Her name is Bobo
 
-![Cat](/images/cat.jpg)
+![Cat](static/images/cat.jpg)
 
 He’s cute, chaotic, and has better debugging instincts than I do.
 
@@ -43,8 +43,8 @@ He’s cute, chaotic, and has better debugging instincts than I do.
 
 ## 🧭 Where to Go Next?
 
-- 📝 Read my [latest blog posts](/posts/)
-- 🙋 Learn more [about me](/about/)
+- 📝 Read my [latest blog posts](content/posts/)
+- 🙋 Learn more [about me](content/about/)
 - 🔍 Or [search on Google](https://google.com) if you’re totally lost
 
 ---
