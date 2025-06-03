@@ -25,7 +25,7 @@ I chose [PaperMod](https://github.com/adityatelange/hugo-PaperMod) as the theme 
 
 ### My Placeholder Image
 
-![My Image](/images/myphoto.jpeg)
+![My Image](https://pan1018.github.io/my-hugo-site/images/myphoto.jpeg)
 
 ---
 
@@ -33,7 +33,7 @@ I chose [PaperMod](https://github.com/adityatelange/hugo-PaperMod) as the theme 
 
 Say hi to my cat! 😺 Her name is Bobo
 
-![Cat](/images/cat.jpg)
+![Cat](https://pan1018.github.io/my-hugo-site/images/cat.jpg)
 
 He’s cute, chaotic, and has better debugging instincts than I do.
 
@@ -41,8 +41,8 @@ He’s cute, chaotic, and has better debugging instincts than I do.
 
 ## 🧭 Where to Go Next?
 
-- 📝 Read my [latest blog posts](content/posts/)
-- 🙋 Learn more [about me](content/about/)
+- 📝 Read my [latest blog posts](/posts/)
+- 🙋 Learn more [about me](/about/)
 - 🔍 Or [search on Google](https://google.com) if you’re totally lost
 
 ---
