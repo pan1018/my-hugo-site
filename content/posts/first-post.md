@@ -23,19 +23,17 @@ I chose [PaperMod](https://github.com/adityatelange/hugo-PaperMod) as the theme 
 
 ---
 
-## 📸 Some Images
-
 ### My Placeholder Image
 
-![My Image](static/images/myphoto.jpeg)
+![My Image](/images/myphoto.jpeg)
 
-(This is a placeholder — I’ll upload something more exciting soon.)
+---
 
 ### My Cat 🐱
 
 Say hi to my cat! 😺 Her name is Bobo
 
-![Cat](static/images/cat.jpg)
+![Cat](/images/cat.jpg)
 
 He’s cute, chaotic, and has better debugging instincts than I do.
 
