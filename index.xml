@@ -19,8 +19,18 @@
 &lt;li>Occasional fun stuff (cats, photography, etc.)&lt;/li>
 &lt;/ul>
 &lt;h2 id="why-hugo">Why Hugo?&lt;/h2>
-&lt;p>I chose Hugo because:&lt;/p></description></item><item><title>About Me</title><link>https://pan1018.github.io/my-hugo-site/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pan1018.github.io/my-hugo-site/about/</guid><description>&lt;h2 id="background">Background&lt;/h2>
-&lt;p>I’m a graduate student interested in AI, backend engineering, and software design.&lt;/p>
-&lt;h2 id="skills">Skills&lt;/h2>
-&lt;p>&lt;strong>Languages:&lt;/strong> Python, Java, Ruby&lt;br>
-&lt;em>Interests:&lt;/em> Web3, cats, hiking, visual design&lt;/p></description></item></channel></rss>
+&lt;p>I chose Hugo because:&lt;/p></description></item><item><title>About Me</title><link>https://pan1018.github.io/my-hugo-site/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pan1018.github.io/my-hugo-site/about/</guid><description>&lt;h1 id="-about-me">👋 About Me&lt;/h1>
+&lt;p>Hi, I’m Yuyang Pan — a graduate student in Computer Science with a passion for &lt;strong>AI&lt;/strong>, backend development, and systems design.&lt;/p>
+&lt;p>I’m currently studying at &lt;strong>Northwestern University&lt;/strong>, and this site is where I share projects, posts, and a bit of personal stuff along the way.&lt;/p>
+&lt;hr>
+&lt;h2 id="-background">📚 Background&lt;/h2>
+&lt;ul>
+&lt;li>🎓 B.S. in Computer Science &amp;amp; Engineering @ Ohio State University&lt;/li>
+&lt;li>💡 Currently pursuing M.S. in Computer Science @ Northwestern University&lt;/li>
+&lt;li>🧠 Focus: AI, backend architecture, distributed systems&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-skills">🛠️ Skills&lt;/h2>
+&lt;p>&lt;strong>Languages:&lt;/strong> Python, Java, Ruby, Go, SQL&lt;br>
+&lt;strong>Frameworks:&lt;/strong> Flask, Rails, React&lt;br>
+&lt;strong>Tools:&lt;/strong> Git, Docker, AWS, PostgreSQL&lt;/p></description></item></channel></rss>
